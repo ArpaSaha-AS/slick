@@ -1,0 +1,20 @@
+.holder {
+  height: 150px;
+  background: gray;
+  border: 1px dashed #000;
+  color: #fff;
+  text-align: center;
+}
+.center {
+  margin: 10px;
+}
+.inside-image {
+  width: 100%;
+  height: 100%;
+}
+.lazy-height {
+  height: 300px;
+}
+.fade-height {
+  height: 400px;
+}
